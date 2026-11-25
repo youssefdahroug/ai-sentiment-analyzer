@@ -4,6 +4,8 @@ Day 1 of my daily AI project challenge.
 
 A small Python tool that reads a review and says if it is positive or negative. It uses TF-IDF features (words and word pairs) with logistic regression from scikit-learn.
 
+![Demo output](demo.png)
+
 ## Results
 
 Trained on 3,000 labelled sentences (75% train, 25% test, seed 42).
